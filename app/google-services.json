@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62771454524",
+    "firebase_url": "https://taskman-12fa9-default-rtdb.firebaseio.com",
+    "project_id": "taskman-12fa9",
+    "storage_bucket": "taskman-12fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62771454524:android:02d6afa469e1101efad939",
+        "android_client_info": {
+          "package_name": "com.multitechdevelopers.taskman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62771454524-agbir29qpm9fvihdve7mjicflcm0qpie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multitechdevelopers.taskman",
+            "certificate_hash": "f2070f57b8f0cac16bc3478c53528cdb62ca6c49"
+          }
+        },
+        {
+          "client_id": "62771454524-ifq95oggtvum5knul15q0tnq0if86a00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6SRGl-zgPcrpIgWzN27DmjJBNLOsc-fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62771454524-ifq95oggtvum5knul15q0tnq0if86a00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
